@@ -8,7 +8,6 @@ Open up [Arduino Create](https://create.arduino.cc/editor/) and add the followin
 
 ```csharp
 
-// Inport libraries
 #include <Adafruit_GFX.h>
 #include <Adafruit_NeoMatrix.h>
 #include <Adafruit_NeoPixel.h>
