@@ -1,4 +1,4 @@
-# arduino-45in1-32x8-matrix
+# Arduino amd a 32x8 Matrix
 
 A basic example of controlling a 32x8 colour LED matrix using an Arduino.
 
