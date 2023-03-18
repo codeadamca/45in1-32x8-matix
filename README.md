@@ -44,7 +44,7 @@ void loop() {
 }
 ```
 
-[View the Arduino code on Arduino Create](https://create.arduino.cc/editor/professoradam/fe090e79-149b-4d55-98e8-682fb8adbaf3/preview)
+> [View the Arduino code on Arduino Create](https://create.arduino.cc/editor/professoradam/fe090e79-149b-4d55-98e8-682fb8adbaf3/preview)
 
 You will need to setup the following circuit using your Arduino:
 
@@ -53,7 +53,7 @@ You will need to setup the following circuit using your Arduino:
 > **Note**
 > The NeoPixel strip in the Tinkercard diagram can be repalced with the 32x8 matrix (or any NeoPixel set of lights)
 
-[View the Circuit on Tinkercad](https://www.tinkercad.com/things/caUy9e68xmM)
+> [View the Circuit on Tinkercad](https://www.tinkercad.com/things/caUy9e68xmM)
 
 ***
 
