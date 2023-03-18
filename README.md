@@ -59,7 +59,7 @@ You will need to setup the following circuit using your Arduino:
 
 ## Repository Resources
 
-* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+* [Visual Studio Code](https://code.visualstudio.com/) (or any code editor)
 * [Arduino Create](https://create.arduino.cc/editor) 
 
 Full tutorial URL: https://codeadam.ca/learning/arduino-45in1.html
