@@ -6,7 +6,7 @@ A basic example of controlling a 32x8 colour LED matrix using an Arduino.
 
 Open up [Arduino Create](https://create.arduino.cc/editor/) and add the following code:
 
-```cplusplus
+```cpp
 
 #include <Adafruit_GFX.h>
 #include <Adafruit_NeoMatrix.h>
