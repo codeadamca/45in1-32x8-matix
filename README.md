@@ -54,8 +54,9 @@ You will need to setup the following circuit using your Arduino:
 
 [View the Circuit on Tinkercad](https://www.tinkercad.com/things/caUy9e68xmM)
 
+***
 
-## Tutorial Requirements:
+## Repository Requirements:
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
 * [Arduino Create](https://create.arduino.cc/editor) 
