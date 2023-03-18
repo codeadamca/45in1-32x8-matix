@@ -46,6 +46,8 @@ void loop() {
 
 > [View the Arduino code on Arduino Create](https://create.arduino.cc/editor/professoradam/fe090e79-149b-4d55-98e8-682fb8adbaf3/preview)
 
+## Circuit
+
 You will need to setup the following circuit using your Arduino:
 
 ![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/arduino-45in1-32x8-matix/main/_readme/tinkercad-45in1-32x8-led.png)
