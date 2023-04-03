@@ -50,10 +50,9 @@ void loop() {
 
 You will need to setup the following circuit using your Arduino:
 
-![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/arduino-45in1-32x8-matix/main/_readme/tinkercad-45in1-32x8-led.png)
+![Tinkercad Circuit](_readme/tinkercad-45in1-32x8-led.png)
 
-> **Note**
->
+> **Note**  
 > The NeoPixel strip in the Tinkercard diagram can be repalced with the 32x8 matrix (or any NeoPixel set of lights)
 
 > [View the Circuit on Tinkercad](https://www.tinkercad.com/things/caUy9e68xmM)
