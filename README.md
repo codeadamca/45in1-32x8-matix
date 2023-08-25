@@ -57,14 +57,15 @@ You will need to setup the following circuit using your Arduino:
 
 > [View the Circuit on Tinkercad](https://www.tinkercad.com/things/caUy9e68xmM)
 
+> Full tutorial URL:  
+> https://codeadam.ca/learning/arduino-45in1.html
+
 ***
 
 ## Repo Resources
 
-* [Visual Studio Code](https://code.visualstudio.com/) (or any code editor)
+* [Visual Studio Code](https://code.visualstudio.com/)
 * [Arduino Create](https://create.arduino.cc/editor) 
-
-Full tutorial URL: https://codeadam.ca/learning/arduino-45in1.html
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
